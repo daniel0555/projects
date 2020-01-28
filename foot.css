@@ -1,0 +1,102 @@
+.hp {
+	padding: 0px;
+	margin: 0px;
+}
+
+.hp {
+	display: inline-block;
+	float:left;
+	width: 30.3%;
+	padding: 5px;
+}
+
+
+footer{
+	 background-color: white ;
+	  border: 10px solid white;
+}
+
+.pic{
+	/*text-decoration: none;*/
+	list-style-type: none;
+	margin-top: 25px; 
+}
+
+.pic li {
+	display: inline-block;
+	 text-decoration:none;
+	 color: white;
+	}
+
+
+.before{
+	background-color: grey ;
+	  border: 10px solid white;
+}
+
+
+
+.before{
+	 background-color: grey ;
+	  border: 10px solid grey;
+	  color: white;
+}
+
+
+.before ul{
+	/*text-decoration: none;*/
+	list-style-type: none;
+	margin-top: 25px; 
+}
+
+.before ul li {
+	display: inline-block;
+	 text-decoration:none;
+	 color: white;
+	}
+
+.before ul li a{
+	text-decoration: none;
+	padding: 10px 20px;
+	/*border: 1px;*/
+	border: 0px solid pink;
+	color:white; 
+}
+
+.after{
+	background-color: black ;
+	  border: 30px solid black;
+	  color: white;
+	  /*display: inline-block;*/
+
+}
+
+.after ul{
+	/*text-decoration: none;*/
+	list-style-type: none;
+	margin-top: 25px; 
+    display: inline-block;
+}
+
+.after .about li {
+	display: inline-block;
+	 text-decoration:none;
+	 color: white;
+	}
+
+.after ul h2 li a{
+	text-decoration: none;
+	padding: 10px 20px;
+	/*border: 1px;*/
+	/*border: 0px solid pink;*/
+	color:white; 
+	/*display: inline-flex;*/
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+footer{
+	 background-color: white ;
+	  border: 0px solid white;
+}
+
+
+.last{
+	background-color: #0f0f0a ;
+	  border: 80px  #0f0f0a;
+	  color: white;
+}
+
+.last ul  {
+	display: inline-block;
+	margin: 5px;
+	padding: 30px 26px;
+}
+
+.last ul li {
+	list-style-type: none;
+}
+
+.last ul li a{
+	color: white; 
+	text-decoration: none;
+}

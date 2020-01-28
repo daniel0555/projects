@@ -1,0 +1,200 @@
+/*.frost{
+	font-style: italic;
+	color: #0040ff;
+	text-decoration: underline;
+	border:1px solid green; 
+	font-weight: bold;
+	font-size: 15px;
+	background-color: yellow;
+	letter-spacing: 0.5em;
+	text-align: center;
+	}
+
+/*properties and values*/
+
+	/*}*/
+
+
+mark {
+	background-color: green;
+	padding: 0px 20px;
+	color: #ffff;
+}
+
+.click-here {
+	background: #fd4d4d;
+	height: 15px;
+	width: 200px;
+	padding: 14px 16px;
+	color: #ffff;
+	border-radius: 10px;
+	text-decoration: none;
+	text-shadow: 1px 1px 2px #000000;
+}
+
+/*
+.paint{
+	background-color: blue;
+	width: 50%;
+	height: 100px;
+	
+	float: left;
+	display: inline-block;
+	}*/
+
+
+/*
+#paper{
+	font-style: italic;*/
+
+
+
+/** {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+ Clearfix (clear floats) 
+.row: {
+  content: "";
+  clear: both;
+  display: table;
+}*/
+
+/*
+
+
+
+/*.dan{
+	/*background-color: pink;*/
+	/*border-width: 40px;*/
+	/*border-radius: 80%;*/
+	
+
+
+/*}
+
+nav{
+	width: 100%;
+	height: 100px;
+	background-color: red;
+}
+
+
+header{
+	width: 100%;
+	height:70px;
+	background-color:hsl(336, 100%, 50%);
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.searchBtn {
+	width: 40px;
+	height: 36px;
+
+}*/
+/*
+body {
+	margin: 0;
+	padding: 0;
+}
+.pen{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	
+}
+.pen select{
+	padding: 5px;
+	background-color: deeppink;
+	color: white;
+	width: 100px;
+	height: 50px;
+	border:none;
+	font-size: 20px;
+} 
+.help:hover {
+	background-color: white;
+	color: #000;
+}*/
+
+
+		/*today's class work*/
+
+/**{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.top{
+
+	width: 100%;
+	height: 110px;
+	background-color: deeppink;
+	font-family: 'Source sans pro' sans-serif;
+}
+.top .menu li {
+	display: inline-block;
+	text-decoration: none;
+}
+
+.top .top_list {
+	list-style-type: none;
+	padding-left: 0px;
+	font-size: 7px;
+
+}
+.top_list li{
+	float: left;
+}
+
+.top_list li a{
+	display: block;
+	color: white;
+	padding: 4px;
+	text-decoration: none;
+}
+
+header{
+	background-color: #0000ff;
+	border:10px solid #0000ff;
+}
+
+ul{
+	list-style-type: none;
+	margin-top: 25px;
+
+}
+ul li{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+}
+
+ul li a{
+	text-decoration: none;
+	padding: 10px;
+	border:0px solid pink;
+	color: white;
+}
+
+ul li a:hover {
+	background-color: #fff;
+
+}*/
+
+
+
+
+
+
+
+
+
